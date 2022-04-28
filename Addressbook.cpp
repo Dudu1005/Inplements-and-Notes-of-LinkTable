@@ -226,6 +226,8 @@ int main()
         case 7:
             DeleteNode(head);
             break;
+                
+        \\其余功能请读者自行补足
         }
         cout << endl;
     } while (choice != 0);
